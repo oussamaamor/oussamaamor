@@ -6,7 +6,7 @@ Based in Tunisia | Passionate about hardware, sensors, AI, and scientific comput
 ---
 
 📚 **Programming Languages Mastery**  
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![ARM](https://img.shields.io/badge/-ARM-555?style=flat) ![MIPS](https://img.shields.io/badge/-MIPS-555?style=flat) ![Assembly](https://img.shields.io/badge/-Assembly-555?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![MATLAB](https://img.shields.io/badge/-MATLAB-555?style=flat) ![Octave](https://img.shields.io/badge/-Octave-555?style=flat) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![ARM](https://img.shields.io/badge/-ARM-555?style=flat&logo=arm) ![MIPS](https://img.shields.io/badge/-MIPS-555?style=flat) ![Assembly](https://img.shields.io/badge/-Assembly-555?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![MATLAB](https://img.shields.io/badge/-MATLAB-555?style=flat&logo=mathworks) ![Octave](https://img.shields.io/badge/-Octave-555?style=flat&logo=gnu-octave) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  
 
 ---
 
@@ -21,11 +21,16 @@ Based in Tunisia | Passionate about hardware, sensors, AI, and scientific comput
 ⚡ **Technologies & Tools**  
 
 **Hardware & Embedded Systems**  
-![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-555?style=flat) ![Sensors](https://img.shields.io/badge/-Sensors-555?style=flat) ![Signal Processing](https://img.shields.io/badge/-Signal_Processing-555?style=flat)  
+![Microchip](https://img.shields.io/badge/-Microcontrollers-555?style=flat&logo=microchip)  
+![Arduino](https://img.shields.io/badge/-Arduino-555?style=flat&logo=arduino)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-555?style=flat&logo=raspberry-pi)  
+![FPGA](https://img.shields.io/badge/-FPGA-555?style=flat&logo=altera)  
 Silicon-chip lifecycle | Low-level programming | Embedded integration  
 
 **Characterization Techniques**  
-![TRPL](https://img.shields.io/badge/-TRPL-555?style=flat) ![SEM](https://img.shields.io/badge/-SEM-555?style=flat) ![XRD](https://img.shields.io/badge/-XRD-555?style=flat)  
+![TRPL](https://img.shields.io/badge/-TRPL-555?style=flat)  
+![SEM](https://img.shields.io/badge/-SEM-555?style=flat)  
+![XRD](https://img.shields.io/badge/-XRD-555?style=flat)  
 Perovskite materials | Device characterization | Optoelectronic measurements  
 
 **Full Stack & Cloud**  
