@@ -36,9 +36,13 @@ Based in Tunisia | Passionate about hardware, sensors, AI, and scientific comput
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-555?style=flat)  
 ![Sensors](https://img.shields.io/badge/-Sensors-555?style=flat)  
 ![Signal Processing](https://img.shields.io/badge/-Signal_Processing-555?style=flat)  
+Silicon-chip lifecycle | Low-level programming | Embedded integration  
+
+**Characterization Techniques**  
 ![TRPL](https://img.shields.io/badge/-TRPL-555?style=flat)  
 ![SEM](https://img.shields.io/badge/-SEM-555?style=flat)  
 ![XRD](https://img.shields.io/badge/-XRD-555?style=flat)  
+Perovskite materials | Device characterization | Optoelectronic measurements  
 
 **Full Stack & Cloud**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  
@@ -56,9 +60,7 @@ Based in Tunisia | Passionate about hardware, sensors, AI, and scientific comput
 ![SciPy](https://img.shields.io/badge/-SciPy-555?style=flat)  
 
 **Scientific & Math Tools**  
-![MATLAB](https://img.shields.io/badge/-MATLAB-555?style=flat)  
-![Octave](https://img.shields.io/badge/-Octave-555?style=flat)  
-Simulation | Data Acquisition | Quantitative Modeling  
+MATLAB | Octave | Simulation | Data Acquisition | Quantitative Modeling  
 
 ---
 
@@ -87,4 +89,4 @@ I’m always open to collaborating on projects that involve hardware-software in
 📽️ **Check Out My Latest Projects**  
 - **Perovskite Sensor Analysis Toolkit:** Automates lab measurements & visualization  
 - **Embedded & Cloud Monitoring Systems:** Real-time sensor integration  
-- **Data-Driven Models:** Physics & finance prediction algorithms  
+- **Data-Driven Models:** Physics & finance prediction algorithms
